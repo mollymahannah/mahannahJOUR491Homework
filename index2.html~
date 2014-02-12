@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+        <title></title>
+    </head>
+    <body>
+        <div id="header">
+            <p id="name">Molly Mahannah</p>
+            <a href="mailto:you@mahannah.m@gmail.com"><p id="email">Mahannah.m@gmail.com</p></a>
+        </div>
+        <div class="left"></div>
+        <div class="right">
+            <h4>Objective</h4>
+            <p>To work in the magazine or publishing industry.</p>
+            <h4>Experience</h4>
+            <p>Intern, Omaha Magazine (Dec. 2012 - Present)</p>
+            <ul>
+                <li>Created weekly content for Omaha Magazine's website and for publication in magazine.</li>
+                <li>Met weekly and daily deadlines.</li>
+            </ul>
+            <h4>Skills</h4>
+            <p>Adobe Creative Suite: Photoshop, InDesign, Illustrator, Premiere, Wordpress, HTML</p>
+            <p>Videography, Final Cut Pro,Photography, Microsoft Office: World, Excel, Powerpoint</p>
+            <h4>Education</h4>
+            <p>BJ - University of Nebraska-Lincoln</p>
+        
+        </div>
+        <div id="footer">
+            <p>1019 S. 34th St, Lincoln Neb. 68510 | Tel: (402) 707-6333</p>
+        </div>
+    </body>
+</html>
